@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    text-align: center;
+    color: red;
+
+}
+
+.btn{
+    color: aliceblue;
+    text-align: center;
+    background-color: red;
+    padding: 10px;
+
+    
+}
+.txt{
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+    background-color: rgb(131, 231, 133);
+    border: groove 10px;
+    border-color: red;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    
+    
+}
+.vid{
+    width: 100%;
+}
